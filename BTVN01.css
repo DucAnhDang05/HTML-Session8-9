@@ -1,0 +1,23 @@
+.back{
+    background-color: white;
+    width: 300px;
+    position: relative;
+}
+img{
+    width: 200px;
+    margin: 10px;
+    position: absolute;
+}
+b{
+    width: 200px;
+    margin-top: 200px;
+    margin-left: 10px;
+    position: absolute;
+}
+.back2{
+    position: absolute;
+    background-color: gray;
+    width: 200px;
+    margin-left: 10px;
+    margin-top: 165px;
+}

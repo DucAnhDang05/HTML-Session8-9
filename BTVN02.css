@@ -1,0 +1,92 @@
+.back{
+    background-image: url("https://i.pinimg.com/originals/07/a8/a4/07a8a453ee8e532995a564c59f344c3d.jpg");
+    position: relative;
+    background-size: cover;
+    width: 400px;
+    height: 500px;
+    margin: 10px;
+    border-radius: 10px;
+}
+.corner{
+    margin: 10px;
+    background-color: red;
+    position: absolute;
+    font-size: 30px;
+    border-radius: 10%;
+    width: 70px;
+    padding: 5px;
+    padding-left: 20px;
+}
+.back b{
+    color:red ;
+    position: absolute;
+    bottom:35px;
+    left: 10px;
+    font-size: 30px;
+}
+.back p{
+    color: red;
+    position: absolute;
+    bottom: 2px;
+    left:10px;
+}
+.back .line{
+    position: absolute;
+    width: 2px;
+    height: 51px;
+    background-color:white;
+    top: 110px;
+    right: 35px;
+}
+.back .line2{
+    position: absolute;
+    width: 2px;
+    height: 18px;
+    background-color: white;
+    top: 202px;
+    right: 35px;
+}
+.back .circle1{
+    color: aliceblue;
+    position: absolute;
+    border-radius: 10px;
+    background-color: red;
+    font-size: 30px ;
+    right: 14px;
+    top: 100px;
+    width: 45px;
+    height: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.back .circle2{
+    font-size: 40px;
+    position: absolute;
+    border-radius: 10px;
+    background-size: 50px;
+    color:white;
+    width: 40px;
+    height: 40px;
+    border: 1px solid white;
+    right: 15px;
+    top: 160px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.circle3{
+    color: white;
+    font-size: 40px;
+    position: absolute;
+    border-radius: 10px;
+    background-size: 50px;
+    width: 40px;
+    height: 40px;
+    border: 1px solid white;
+    right: 15px;
+    top: 220px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
